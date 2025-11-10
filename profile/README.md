@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/171234221?s=200" width="120" />
-</p>
-
 <h2 align="center">BMesonDecays</h2>
 
 <p align="center">
